@@ -16,7 +16,7 @@ How to handle click events and update image sources dynamically
 
 
 
-View Live page:[flip-coin]()
+View Live page:[flip-coin]( https://patrick-gif955.github.io/flip-coin/)
 
 
 Technologies Used
